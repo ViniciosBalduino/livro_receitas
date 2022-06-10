@@ -2,6 +2,8 @@
 
 Olá bem vindo ao meu livro de receitas
 
- - strogonoff de Frango
+ - strogonoff de frango
 
  - Pavê
+
+ - Escondidinho de frango
